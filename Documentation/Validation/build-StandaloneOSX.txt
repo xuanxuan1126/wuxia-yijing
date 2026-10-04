@@ -1,0 +1,6 @@
+Unity 6000.3.24f1
+Target: StandaloneOSX
+Backend: Mono
+Result: Succeeded
+Size: 253348572 bytes
+Built: 2026-10-04T22:38:19.5244080+08:00

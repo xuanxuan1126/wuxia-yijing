@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+<title>九霄引雷 · 云纹朱砂雷符</title>
+<!-- Lightning silhouette: Lorc, focused-lightning.svg, CC BY 3.0.
+     Paper talisman and cloud ornaments: project composition, CC BY 3.0. -->
+<g fill="#8baea5" stroke="#203d39" stroke-width="3" stroke-linejoin="round">
+<path d="M35 32H18V26H11V17H17V12H30V17H39V23H49V32Z"/>
+<path d="M93 32H110V26H117V17H111V12H98V17H89V23H79V32Z"/>
+</g>
+<path d="M38 10H90V108L81 118L72 111L63 118L54 111L38 116Z" fill="#d9b568" stroke="#243c35" stroke-width="5" stroke-linejoin="round"/>
+<path d="M43 17H85V102L78 110L69 104L61 110L53 104L43 109Z" fill="#ead39a"/>
+<path d="M48 23H80M48 29H80" fill="none" stroke="#a34935" stroke-width="4"/>
+<path d="M19.594 18.125V104.5l210.094 181.78-84.97 178.22 230.938-92.188-39.875 117.032 94.47-35.813 67.594 44.533-34.594-106.344-59.75 27.5 76.75-168.25-198.03 99.093 76.5-122.75L238.186 18.125H121.813L312.406 244.72 218.47 393.75l58.28-142.813L43.72 18.125H19.593z" transform="translate(44 35) scale(.078 .127)" fill="#a34935"/>
+<path d="M45 15V99M83 15V97" fill="none" stroke="#b58b4c" stroke-width="2"/>
+</svg>

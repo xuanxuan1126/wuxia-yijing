@@ -1,0 +1,21 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.csproj
+*.sln
+.DS_Store
+
+# Local publishing artifacts and credentials
+.env
+.env.*
+*.p12
+*.pfx
+*.keystore
+*.mobileprovision
+文件校验.json
+试玩程序/
+ReleasePackages/
+__pycache__/

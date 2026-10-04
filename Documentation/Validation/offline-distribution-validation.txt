@@ -1,0 +1,51 @@
+PASS Windows: WuxiaYijing_Data/globalgamemanagers present
+PASS Windows: WuxiaYijing_Data/resources.assets present
+PASS Windows: WuxiaYijing_Data/resources.resource present
+PASS Windows: WuxiaYijing_Data/Managed/Assembly-CSharp.dll present
+PASS Windows: WuxiaYijing_Data/Managed/UnityEngine.CoreModule.dll present
+PASS Linux: WuxiaYijing_Data/globalgamemanagers present
+PASS Linux: WuxiaYijing_Data/resources.assets present
+PASS Linux: WuxiaYijing_Data/resources.resource present
+PASS Linux: WuxiaYijing_Data/Managed/Assembly-CSharp.dll present
+PASS Linux: WuxiaYijing_Data/Managed/UnityEngine.CoreModule.dll present
+PASS Windows: WuxiaYijing.exe present
+PASS Windows: UnityPlayer.dll present
+PASS Windows: MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll present
+PASS WuxiaYijing.exe valid PE
+PASS WuxiaYijing.exe x64
+PASS WuxiaYijing.exe PE64
+PASS WuxiaYijing.exe imports resolve to bundled or OS libraries
+PASS UnityPlayer.dll valid PE
+PASS UnityPlayer.dll x64
+PASS UnityPlayer.dll PE64
+PASS UnityPlayer.dll imports resolve to bundled or OS libraries
+PASS UnityCrashHandler64.exe valid PE
+PASS UnityCrashHandler64.exe x64
+PASS UnityCrashHandler64.exe PE64
+PASS UnityCrashHandler64.exe imports resolve to bundled or OS libraries
+PASS mono-2.0-bdwgc.dll valid PE
+PASS mono-2.0-bdwgc.dll x64
+PASS mono-2.0-bdwgc.dll PE64
+PASS mono-2.0-bdwgc.dll imports resolve to bundled or OS libraries
+PASS MonoPosixHelper.dll valid PE
+PASS MonoPosixHelper.dll x64
+PASS MonoPosixHelper.dll PE64
+PASS MonoPosixHelper.dll imports resolve to bundled or OS libraries
+PASS D3D12Core.dll valid PE
+PASS D3D12Core.dll x64
+PASS D3D12Core.dll PE64
+PASS D3D12Core.dll imports resolve to bundled or OS libraries
+PASS Linux: WuxiaYijing.x86_64 present
+PASS Linux ELF64 x86_64
+PASS Linux: UnityPlayer.so present
+PASS Linux: WuxiaYijing_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so present
+PASS macOS player present
+PASS macOS universal Intel + Apple Silicon
+PASS macOS application signature and nested bundle verified
+PASS macOS executable permission
+PASS Linux executable permission
+PASS StandaloneOSX build succeeded
+PASS StandaloneWindows64 build succeeded
+PASS StandaloneLinux64 build succeeded
+
+Windows/Linux: build and package checks only; native play tested on macOS.

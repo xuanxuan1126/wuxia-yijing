@@ -1,0 +1,7 @@
+Game-icons.net upgrade icon atlas: CC BY 3.0.
+Authors: Delapouite (ancient-sword, swords-power, fire-flower); Lorc (wingfoot, meditation, potion-ball, focused-lightning, snowflake-1, wave-strike, bell-shield, drop, lotus).
+https://creativecommons.org/licenses/by/3.0/
+https://github.com/game-icons/icons
+Changes: removed black background, recolored and assembled into a 4x3 atlas. Full attribution and source paths in CREDITS.md.
+
+0.11.10 thunder: focused-lightning silhouette by Lorc, combined with project parchment talisman and cloud ornament composition; cinnabar recoloring. The composition is CC BY 3.0. Legacy lightning-arc source retained for history.

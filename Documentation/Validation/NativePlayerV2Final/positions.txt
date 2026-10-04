@@ -1,0 +1,11 @@
+03-guide player=247.5,620 camera=(6.40, 3.60, -10.00) boss=none
+04-story-play player=647.4998,618.5001 camera=(7.60, 3.60, -10.00) boss=none
+04b-enemies player=550,618.5 camera=(6.90, 3.60, -10.00) boss=1130,618.5 view=(11.30, 1.92, 0.00) scale=(0.45, 0.45, 0.45)
+05-formation player=420,618.5 camera=(6.40, 3.60, -10.00) boss=820,618.5 view=(8.41, 1.82, 0.00) scale=(0.41, 0.41, 0.41)
+06-master-warning player=420,618.5 camera=(6.40, 3.60, -10.00) boss=820,618.5 view=(8.41, 1.82, 0.00) scale=(0.41, 0.41, 0.41)
+07-master-surge player=420,618.5 camera=(6.45, 3.53, -10.00) boss=820,618.5 view=(8.41, 1.82, 0.00) scale=(0.41, 0.41, 0.41)
+08-cards player=1250,618.5 camera=(13.50, 3.60, -10.00) boss=none
+09-stone-platforms player=500,618.5 camera=(10.00, 3.60, -10.00) boss=773.8324,618.5 view=(7.74, 1.75, 0.00) scale=(0.45, 0.45, 0.45)
+09b-ground-quake player=770,618.5 camera=(10.00, 3.60, -10.00) boss=1000,618.5 view=(10.00, 1.75, 0.00) scale=(0.45, 0.45, 0.45)
+09c-symmetric-platforms player=170,620 camera=(6.40, 3.60, -10.00) boss=none
+11-live-physics-render player=176.32,618.5 camera=(6.40, 3.60, -10.00) boss=none

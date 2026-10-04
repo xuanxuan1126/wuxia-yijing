@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56fc535e6fc7048489dc74e625dce77c, type: 3}
+  m_Name: Content
+  m_EditorClassIdentifier: Assembly-CSharp::Wuxia.GameContent
+  sourceVersion: 0.11.10
+  rooms:
+  - {fileID: 11400000, guid: 70e38c3fe0de54eecb7722b869480da7, type: 2}
+  - {fileID: 11400000, guid: d247af05c87a14c4dbf0936c7e2fd120, type: 2}
+  - {fileID: 11400000, guid: 815d5e06bff9c4085971ae0b363721ba, type: 2}
+  - {fileID: 11400000, guid: 14d382f890bcf463ebf3b4a2718f4944, type: 2}
+  - {fileID: 11400000, guid: 2c40e8a4d78654a91bac0ca157ce9b61, type: 2}
+  upgrades:
+  - id: power
+    name: "\u6DEC\u950B\u8BC0"
+    kind: "\u5251\u6CD5"
+    icon: "\u5251"
+    desc: "\u6240\u6709\u653B\u51FB\u4F24\u5BB3 +20%\n\u53EF\u53CD\u590D\u4FEE\u70BC\uFF0C\u9010\u5C42\u53E0\u52A0"
+    max: 2147483647
+  - id: haste
+    name: "\u6D41\u5149\u5FA1\u5251"
+    kind: "\u8EAB\u6CD5"
+    icon: "\u98CE"
+    desc: "\u98DE\u5251\u3001\u4E07\u5251\u53CA\u96F7\u971C\u51B7\u5374 -8%\n\u6700\u591A\u7F29\u77ED
+      48%"
+    max: 6
+  - id: vitality
+    name: "\u6613\u7B4B\u953B\u9AA8"
+    kind: "\u5185\u529F"
+    icon: "\u6C14"
+    desc: "\u6C14\u8840\u4E0A\u9650 +2\n\u540C\u65F6\u6062\u590D 2 \u70B9\u6C14\u8840"
+    max: 2147483647
+  - id: heal
+    name: "\u56DE\u6625\u4E39"
+    kind: "\u8C03\u606F"
+    icon: "\u836F"
+    desc: "\u6062\u590D 60% \u6700\u5927\u6C14\u8840\n\u6EE1\u8840\u65F6\u6539\u4E3A\u6C14\u8840\u4E0A\u9650
+      +1"
+    max: 2147483647
+  - id: orbit
+    name: "\u62A4\u4F53\u98DE\u5251"
+    kind: "\u65B0\u5251\u8BC0"
+    icon: "\u5FA1"
+    desc: "\u98DE\u5251\u73AF\u7ED5\u5468\u8EAB\uFF0C\u63A5\u89E6\u4F24\u654C\n\u5347\u7EA7\u589E\u52A0\u98DE\u5251\u6570\u91CF\u4E0E\u4F24\u5BB3"
+    max: 5
+  - id: thunder
+    name: "\u4E5D\u9704\u5F15\u96F7"
+    kind: "\u65B0\u5251\u8BC0"
+    icon: "\u96F7"
+    desc: "\u6BCF 5 \u79D2\u843D\u96F7\u8FFD\u51FB\u9644\u8FD1\u654C\u4EBA\n\u5347\u7EA7\u589E\u52A0\u4F24\u5BB3\u4E0E\u8FDE\u51FB\u76EE\u6807"
+    max: 5
+  - id: frost
+    name: "\u5BD2\u6F6D\u7167\u5F71"
+    kind: "\u65B0\u5251\u8BC0"
+    icon: "\u971C"
+    desc: "\u6BCF 6 \u79D2\u91CA\u653E\u5BD2\u6C14\uFF0C\u4F24\u654C\u51CF\u901F\n\u5347\u7EA7\u6269\u5927\u8303\u56F4\u5E76\u63D0\u9AD8\u4F24\u5BB3"
+    max: 5
+  - id: echo
+    name: "\u6CA7\u6D6A\u5251\u6C14"
+    kind: "\u65B0\u5251\u8BC0"
+    icon: "\u6D6A"
+    desc: "\u6BCF\u7B2C\u4E09\u6B21\u6325\u5251\u98DE\u51FA\u7A7F\u900F\u5251\u6C14\n\u5347\u7EA7\u589E\u52A0\u5C04\u7A0B\u4E0E\u4F24\u5BB3"
+    max: 5
+  - id: shield
+    name: "\u91D1\u949F\u62A4\u5FC3"
+    kind: "\u5185\u529F"
+    icon: "\u949F"
+    desc: "\u62A4\u76FE\u62B5\u6321\u4E00\u6B21\u653B\u51FB\n\u6BCF 12 \u79D2\u6062\u590D\uFF0C\u5347\u7EA7\u52A0\u5FEB\u6062\u590D"
+    max: 4
+  - id: blood
+    name: "\u996E\u9732\u5F52\u5143"
+    kind: "\u5FC3\u6CD5"
+    icon: "\u9732"
+    desc: "\u6BCF\u51FB\u8D25 3 \u540D\u654C\u4EBA\u6062\u590D\u6C14\u8840\n\u6BCF\u7EA7\u63D0\u5347
+      0.5 \u70B9\u56DE\u590D\u91CF"
+    max: 4
+  - id: lotus
+    name: "\u9752\u83B2\u517B\u606F"
+    kind: "\u5FC3\u6CD5"
+    icon: "\u83B2"
+    desc: "\u6BCF\u6B21\u6E05\u6CE2\u81EA\u52A8\u6062\u590D\u6C14\u8840\n\u6BCF\u7EA7\u63D0\u5347
+      0.6 \u70B9\u56DE\u590D\u91CF"
+    max: 5
+  - id: revive
+    name: "\u6D85\u69C3\u5F52\u771F"
+    kind: "\u5947\u9047"
+    icon: "\u751F"
+    desc: "\u672C\u8F6E\u6FD2\u6B7B\u65F6\u590D\u82CF\u4E00\u6B21\n\u6062\u590D\u4E00\u534A\u6C14\u8840\uFF0C\u77ED\u6682\u65E0\u654C"
+    max: 1
+  shrineX: 4360
+  healX: 3123

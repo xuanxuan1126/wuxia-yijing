@@ -1,0 +1,99 @@
+[
+  {
+    "id": "power",
+    "author": "Delapouite",
+    "path": "delapouite/ancient-sword.svg",
+    "url": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/ancient-sword.svg",
+    "license": "CC BY 3.0",
+    "changes": "removed black background; recolored and assembled into 4x3 atlas"
+  },
+  {
+    "id": "haste",
+    "author": "Lorc",
+    "path": "lorc/wingfoot.svg",
+    "url": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wingfoot.svg",
+    "license": "CC BY 3.0",
+    "changes": "removed black background; recolored and assembled into 4x3 atlas"
+  },
+  {
+    "id": "vitality",
+    "author": "Lorc",
+    "path": "lorc/meditation.svg",
+    "url": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/meditation.svg",
+    "license": "CC BY 3.0",
+    "changes": "removed black background; recolored and assembled into 4x3 atlas"
+  },
+  {
+    "id": "heal",
+    "author": "Lorc",
+    "path": "lorc/potion-ball.svg",
+    "url": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/potion-ball.svg",
+    "license": "CC BY 3.0",
+    "changes": "removed black background; recolored and assembled into 4x3 atlas"
+  },
+  {
+    "id": "orbit",
+    "author": "Delapouite",
+    "path": "delapouite/swords-power.svg",
+    "url": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/swords-power.svg",
+    "license": "CC BY 3.0",
+    "changes": "removed black background; recolored and assembled into 4x3 atlas"
+  },
+  {
+    "id": "thunder",
+    "author": "Lorc",
+    "path": "lorc/focused-lightning.svg",
+    "url": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/focused-lightning.svg",
+    "license": "CC BY 3.0",
+    "changes": "removed black background; recolored lightning cinnabar red; added parchment talisman and stepped cloud ornament composition; assembled into 4x3 atlas",
+    "previous_source": "lorc/lightning-arc.svg"
+  },
+  {
+    "id": "frost",
+    "author": "Lorc",
+    "path": "lorc/snowflake-1.svg",
+    "url": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/snowflake-1.svg",
+    "license": "CC BY 3.0",
+    "changes": "removed black background; recolored and assembled into 4x3 atlas"
+  },
+  {
+    "id": "echo",
+    "author": "Lorc",
+    "path": "lorc/wave-strike.svg",
+    "url": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/wave-strike.svg",
+    "license": "CC BY 3.0",
+    "changes": "removed black background; recolored and assembled into 4x3 atlas"
+  },
+  {
+    "id": "shield",
+    "author": "Lorc",
+    "path": "lorc/bell-shield.svg",
+    "url": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/bell-shield.svg",
+    "license": "CC BY 3.0",
+    "changes": "removed black background; recolored and assembled into 4x3 atlas"
+  },
+  {
+    "id": "blood",
+    "author": "Lorc",
+    "path": "lorc/drop.svg",
+    "url": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/drop.svg",
+    "license": "CC BY 3.0",
+    "changes": "removed black background; recolored and assembled into 4x3 atlas"
+  },
+  {
+    "id": "lotus",
+    "author": "Lorc",
+    "path": "lorc/lotus.svg",
+    "url": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lotus.svg",
+    "license": "CC BY 3.0",
+    "changes": "removed black background; recolored and assembled into 4x3 atlas"
+  },
+  {
+    "id": "revive",
+    "author": "Delapouite",
+    "path": "delapouite/fire-flower.svg",
+    "url": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/fire-flower.svg",
+    "license": "CC BY 3.0",
+    "changes": "removed black background; recolored and assembled into 4x3 atlas"
+  }
+]

@@ -1,0 +1,11 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {pathToFileURL} from 'node:url';
+import ts from '../../wuxia-game/node_modules/typescript/lib/typescript.js';
+const game=path.resolve('../wuxia-game');
+const code=await fs.readFile(path.join(game,'src/data.ts'),'utf8');
+await fs.writeFile('Tools/source-data.mjs',ts.transpileModule(code,{compilerOptions:{module:ts.ModuleKind.ES2022}}).outputText);
+const d=await import(pathToFileURL(path.resolve('Tools/source-data.mjs')));
+const r=await import(pathToFileURL(path.join(game,'src/endless-rules.js')));
+await fs.writeFile('Assets/Wuxia/Resources/Data/GameData.json',JSON.stringify({sourceVersion:'0.11.10',rooms:d.ROOMS,shrineX:d.worldX(2,1600),healX:d.worldX(1,1815),upgrades:r.UPGRADES.map(u=>({...u,max:Number.isFinite(u.max)?u.max:2147483647}))},null,2));
+await fs.writeFile('Tools/source-assets.json',JSON.stringify({...d.ASSETS,...d.MUSIC_ASSETS},null,2));

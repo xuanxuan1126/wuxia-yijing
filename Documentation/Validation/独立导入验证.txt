@@ -1,0 +1,3 @@
+将 Assets、Packages、ProjectSettings 复制到新的空目录；不复制 Library、UserSettings 或开发缓存。
+使用 Unity 6000.3.24f1 首次导入并重新编译，359 项回归检查全部通过。
+所有五关资产、玩法参数、角色预制体、中文字体及图集从新目录正常加载。
