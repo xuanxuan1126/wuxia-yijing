@@ -1,0 +1,4 @@
+Unity 6000.3.24f1
+Current endless expansion native rendering and UGUI: completed
+Runtime errors: 0
+Frames: 883

@@ -1,0 +1,6 @@
+Actual Update + FixedUpdate + LateUpdate, 660 frames
+Wave 23, all 19 non-heal talents learned, clear-then-next reinforcement batches
+Peak living enemies: 16
+P50 frame ms: 16.67
+P95 frame ms: 16.67
+Runtime errors so far: 0

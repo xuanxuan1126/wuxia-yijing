@@ -1,0 +1,68 @@
+[
+  {
+    "sheet": "guardMotion",
+    "source": "guard-motion-source.png",
+    "frames": 12,
+    "alpha": [
+      0,
+      255
+    ],
+    "sha256": "2a9d765b4b000653420e153a542960fe22d10c23c82410a51c15f302a61213ad",
+    "rows": [
+      0,
+      342,
+      631,
+      936,
+      1254
+    ]
+  },
+  {
+    "sheet": "guardAttack",
+    "source": "guard-attack-source.png",
+    "frames": 4,
+    "alpha": [
+      0,
+      255
+    ],
+    "sha256": "d8b71be309d57015b36c6fef1c6803da17356edf20a6dfe412e0eaf0f6842dd8",
+    "rows": [
+      0,
+      636,
+      1254
+    ]
+  },
+  {
+    "sheet": "discipleMotion",
+    "source": "disciple-motion-source.png",
+    "frames": 16,
+    "alpha": [
+      0,
+      255
+    ],
+    "sha256": "0534920b48802b7a2645cc98a41bf8540e80e8345f92fc5ccff712944ea7c2d6",
+    "rows": [
+      0,
+      346,
+      644,
+      946,
+      1254
+    ]
+  },
+  {
+    "sheet": "ravenMotion",
+    "source": "raven-motion-source.png",
+    "frames": 16,
+    "alpha": [
+      0,
+      255
+    ],
+    "sha256": "072a3dca9a55ae2a94eeb9e2b75c7b8715ab8db58bb24a37c41b9e114a803184",
+    "rows": [
+      0,
+      348,
+      642,
+      937,
+      1254
+    ]
+  }
+]

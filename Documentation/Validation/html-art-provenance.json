@@ -1,0 +1,18 @@
+{
+  "heroRun": {
+    "html": "assets/swordsman-full-run-v8.png",
+    "sha256": "7843b0b19ad8400267acbce881f38ff6c7424216449b8718f0c39a182e61640d"
+  },
+  "hero": {
+    "html": "assets/white-swordsman-v2.png",
+    "sha256": "79a8de4a59e62fb03ba4bd47289d65f6b0c12a205fecc7d7cc5b63a7e607e12b"
+  },
+  "blade": {
+    "html": "assets/jian-v3.png",
+    "sha256": "84832575861577cfd21d4272a7ec56116c42e78eb6d6e06f27be72ccbc1af6b2"
+  },
+  "banditRun": {
+    "html": "assets/bandit-full-run-v8.png",
+    "sha256": "46c03e27436d0543a0e8ada4012f724382dea687501bf9e07177f736b7c66ba1"
+  }
+}

@@ -1,0 +1,5 @@
+Actual Update + FixedUpdate + LateUpdate, 240 frames
+Direction changes, jumping, melee and swords, home/restart: completed
+P50 frame ms: 16.71
+P95 frame ms: 17.54
+Errors so far: 0

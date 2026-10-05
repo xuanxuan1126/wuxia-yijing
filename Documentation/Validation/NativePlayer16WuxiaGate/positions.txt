@@ -1,0 +1,11 @@
+18-demon-portals player=1500,618.5 camera=(13.31, 3.60, -10.00) boss=none
+19-new-enemies player=1500,618.5 camera=(13.60, 3.60, -10.00) boss=none
+19b-enemy-attacks player=1500,618.5 camera=(13.60, 3.60, -10.00) boss=none
+20-skill-cards player=1500,618.5 camera=(13.60, 3.60, -10.00) boss=none
+21-attribute-cards player=170,620 camera=(13.60, 3.60, -10.00) boss=none
+22-sword-rain player=500,618.5045 camera=(6.40, 3.60, -10.00) boss=820,618.5001 view=(8.27, 1.63, 0.00) scale=(0.41, 0.41, 0.41)
+23-sword-finger player=500,618.5 camera=(6.40, 3.60, -10.00) boss=820,618.5 view=(8.27, 1.63, 0.00) scale=(0.41, 0.41, 0.41)
+24-sword-brand-tell player=500,618.5 camera=(6.40, 3.60, -10.00) boss=820,618.5 view=(8.40, 1.95, 0.00) scale=(0.41, 0.41, 0.41)
+24b-sword-brand-burst player=500,618.5 camera=(6.43, 3.57, -10.00) boss=820,618.5 view=(8.40, 1.85, 0.00) scale=(0.41, 0.41, 0.41)
+25-dash-afterimage player=844.0001,618.5 camera=(6.41, 3.58, -10.00) boss=820,618.5 view=(8.27, 1.63, 0.00) scale=(0.41, 0.41, 0.41)
+26-live-endless player=345.8081,377.3195 camera=(6.40, 3.60, -10.00) boss=none

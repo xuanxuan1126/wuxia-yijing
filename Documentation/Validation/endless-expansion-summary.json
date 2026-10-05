@@ -1,0 +1,26 @@
+{
+  "version": "1.6.0-unity",
+  "gameplay_regressions": 567,
+  "suites": {
+    "regression.txt": 397,
+    "optimization-regression.txt": 26,
+    "animation-combat-regression.txt": 18,
+    "html-art-regression.txt": 41,
+    "occlusion-terrain-regression.txt": 44,
+    "endless-expansion-regression.txt": 41
+  },
+  "original_source_provenance_checks": 6,
+  "portal_design": "Eight trigrams, Yin-Yang seal, cinnabar talismans and ink mist; no stone arch",
+  "native_player_folder": "NativePlayer16WuxiaGate",
+  "native_runtime_errors": 0,
+  "new_talents": 8,
+  "new_enemy_types": 3,
+  "wave_enemy_cap": 26,
+  "concurrent_enemy_cap": 14,
+  "native_test_platform": "macOS",
+  "Windows_Linux": "cross-build and bundled-runtime validation; not native play tested",
+  "current_native_capture_frames": 883,
+  "current_native_runtime_errors": 0,
+  "prior_full_capture": "NativePlayer16Final",
+  "current_native_input_checks": 6
+}

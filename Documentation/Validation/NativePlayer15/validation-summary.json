@@ -1,0 +1,24 @@
+{
+  "version": "1.5.0-unity",
+  "checks": {
+    "port": 359,
+    "optimization": 26,
+    "animation_combat": 18,
+    "html_art": 41,
+    "occlusion_terrain": 44,
+    "offline_distribution": 49
+  },
+  "total_game_regressions": 488,
+  "native_runtime_errors": 0,
+  "live_frame_p50_ms": 16.67,
+  "live_frame_p95_ms": 17.6,
+  "native_tested_platforms": [
+    "macOS universal arm64"
+  ],
+  "build_and_dependency_checked": [
+    "Windows x64",
+    "Linux x64"
+  ],
+  "reference_html": "武侠遗境_雷符图标版_2026-10-04",
+  "note": "Windows and Linux were cross-built and inspected, not played on their target systems."
+}

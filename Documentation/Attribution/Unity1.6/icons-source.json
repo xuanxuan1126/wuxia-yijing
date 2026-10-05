@@ -1,0 +1,66 @@
+[
+  {
+    "id": "swift",
+    "name": "wingfoot",
+    "author": "Lorc",
+    "source": "https://game-icons.net/1x1/lorc/wingfoot.html",
+    "license": "CC BY 3.0",
+    "svg_url": "https://game-icons.net/icons/ffffff/transparent/1x1/lorc/wingfoot.svg"
+  },
+  {
+    "id": "armor",
+    "name": "shield-echoes",
+    "author": "Lorc",
+    "source": "https://game-icons.net/1x1/lorc/shield-echoes.html",
+    "license": "CC BY 3.0",
+    "svg_url": "https://game-icons.net/icons/ffffff/transparent/1x1/lorc/shield-echoes.svg"
+  },
+  {
+    "id": "agility",
+    "name": "whirlwind",
+    "author": "Lorc",
+    "source": "https://game-icons.net/1x1/lorc/whirlwind.html",
+    "license": "CC BY 3.0",
+    "svg_url": "https://game-icons.net/icons/ffffff/transparent/1x1/lorc/whirlwind.svg"
+  },
+  {
+    "id": "focus",
+    "name": "third-eye",
+    "author": "Lorc",
+    "source": "https://game-icons.net/1x1/lorc/third-eye.html",
+    "license": "CC BY 3.0",
+    "svg_url": "https://game-icons.net/icons/ffffff/transparent/1x1/lorc/third-eye.svg"
+  },
+  {
+    "id": "brand",
+    "name": "fire-zone",
+    "author": "Lorc",
+    "source": "https://game-icons.net/1x1/lorc/fire-zone.html",
+    "license": "CC BY 3.0",
+    "svg_url": "https://game-icons.net/icons/ffffff/transparent/1x1/lorc/fire-zone.svg"
+  },
+  {
+    "id": "afterimage",
+    "name": "sword-spin",
+    "author": "Lorc",
+    "source": "https://game-icons.net/1x1/lorc/sword-spin.html",
+    "license": "CC BY 3.0",
+    "svg_url": "https://game-icons.net/icons/ffffff/transparent/1x1/lorc/sword-spin.svg"
+  },
+  {
+    "id": "rain",
+    "name": "sword-array",
+    "author": "Lorc",
+    "source": "https://game-icons.net/1x1/lorc/sword-array.html",
+    "license": "CC BY 3.0",
+    "svg_url": "https://game-icons.net/icons/ffffff/transparent/1x1/lorc/sword-array.svg"
+  },
+  {
+    "id": "finger",
+    "name": "pointy-sword",
+    "author": "Lorc",
+    "source": "https://game-icons.net/1x1/lorc/pointy-sword.html",
+    "license": "CC BY 3.0",
+    "svg_url": "https://game-icons.net/icons/ffffff/transparent/1x1/lorc/pointy-sword.svg"
+  }
+]

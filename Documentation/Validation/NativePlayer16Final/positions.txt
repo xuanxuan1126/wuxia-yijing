@@ -1,0 +1,44 @@
+03-guide player=247.5,620 camera=(6.40, 3.60, -10.00) boss=none
+04-story-play player=647.4998,618.5001 camera=(7.60, 3.60, -10.00) boss=none
+04b-enemies player=550,618.5 camera=(6.90, 3.60, -10.00) boss=1130,618.5 view=(11.30, 1.92, 0.00) scale=(0.45, 0.45, 0.45)
+05-formation player=420,618.5 camera=(6.40, 3.60, -10.00) boss=820,618.5 view=(8.16, 1.70, 0.00) scale=(0.41, 0.41, 0.41)
+05b-formation-release player=420,618.5 camera=(6.40, 3.60, -10.00) boss=820,618.5 view=(8.16, 1.70, 0.00) scale=(0.41, 0.41, 0.41)
+05c-formation-hit player=420,618.5 camera=(6.44, 3.64, -10.00) boss=820,618.5 view=(8.16, 1.70, 0.00) scale=(0.41, 0.41, 0.41)
+06-master-warning player=420,618.5 camera=(6.40, 3.60, -10.00) boss=820,618.5 view=(8.41, 1.82, 0.00) scale=(0.41, 0.41, 0.41)
+07-master-surge player=420,618.5 camera=(6.34, 3.54, -10.00) boss=820,618.5 view=(8.41, 1.82, 0.00) scale=(0.41, 0.41, 0.41)
+08a-cards-unselected player=1250,618.5 camera=(13.50, 3.60, -10.00) boss=none
+08-cards player=1250,618.5 camera=(13.50, 3.60, -10.00) boss=none
+09-stone-platforms player=500,618.5 camera=(10.00, 3.60, -10.00) boss=773.8324,618.5 view=(7.74, 1.75, 0.00) scale=(0.45, 0.45, 0.45)
+09b-ground-quake player=770,618.5 camera=(10.00, 3.60, -10.00) boss=1000,618.5 view=(10.00, 1.75, 0.00) scale=(0.45, 0.45, 0.45)
+09c-symmetric-platforms player=170,620 camera=(6.40, 3.60, -10.00) boss=none
+09d-compact-talents player=170,620 camera=(6.40, 3.60, -10.00) boss=none
+12-waist-right player=400,618.527 camera=(6.40, 3.60, -10.00) boss=1130,620 view=(11.30, 1.90, 0.00) scale=(0.45, 0.45, 0.45)
+12b-waist-left player=400,618.527 camera=(6.40, 3.60, -10.00) boss=1130,620 view=(11.30, 1.90, 0.00) scale=(0.45, 0.45, 0.45)
+13-run-0 player=424,618.5018 camera=(6.40, 3.60, -10.00) boss=1130,620 view=(11.30, 1.90, 0.00) scale=(0.45, 0.45, 0.45)
+13-run-1 player=447.9999,618.5001 camera=(6.40, 3.60, -10.00) boss=1130,620 view=(11.30, 1.90, 0.00) scale=(0.45, 0.45, 0.45)
+13-run-2 player=471.9999,618.5 camera=(6.40, 3.60, -10.00) boss=1130,620 view=(11.30, 1.90, 0.00) scale=(0.45, 0.45, 0.45)
+13-run-3 player=495.9999,618.5 camera=(6.40, 3.60, -10.00) boss=1130,620 view=(11.30, 1.90, 0.00) scale=(0.45, 0.45, 0.45)
+13-run-4 player=519.9999,618.5 camera=(6.46, 3.60, -10.00) boss=1130,620 view=(11.30, 1.90, 0.00) scale=(0.45, 0.45, 0.45)
+13-run-5 player=543.9999,618.5 camera=(6.62, 3.60, -10.00) boss=1130,620 view=(11.30, 1.90, 0.00) scale=(0.45, 0.45, 0.45)
+13-run-6 player=567.9999,618.5 camera=(6.83, 3.60, -10.00) boss=1130,620 view=(11.30, 1.90, 0.00) scale=(0.45, 0.45, 0.45)
+13-run-7 player=591.9999,618.5 camera=(7.05, 3.60, -10.00) boss=1130,620 view=(11.30, 1.90, 0.00) scale=(0.45, 0.45, 0.45)
+13b-dash-start player=513,618.5173 camera=(6.61, 3.60, -10.00) boss=1130,620 view=(11.30, 1.90, 0.00) scale=(0.45, 0.45, 0.45)
+13c-dash-end player=669.0001,618.5 camera=(7.67, 3.60, -10.00) boss=1130,620 view=(11.30, 1.90, 0.00) scale=(0.45, 0.45, 0.45)
+13d-head-under-platform player=759,612.4028 camera=(7.01, 3.60, -10.00) boss=none
+14-jump-slash player=500,618.5016 camera=(6.40, 3.60, -10.00) boss=1130,620 view=(11.30, 1.90, 0.00) scale=(0.45, 0.45, 0.45)
+15-charge-left player=780,618.5001 camera=(8.63, 3.60, -10.00) boss=978.3333,618.5001 view=(9.78, 1.85, 0.00) scale=(0.45, 0.45, 0.45)
+15-charge-right player=780,618.5001 camera=(8.63, 3.60, -10.00) boss=1021.667,618.5001 view=(10.22, 1.85, 0.00) scale=(0.45, 0.45, 0.45)
+16-frost-crystals player=580,618.5001 camera=(7.04, 3.60, -10.00) boss=none
+17-flying-sword-impact player=500,618.5 camera=(6.40, 3.58, -10.00) boss=820,618.5 view=(8.27, 1.63, 0.00) scale=(0.41, 0.41, 0.41)
+18-demon-portals player=1500,618.5 camera=(13.31, 3.60, -10.00) boss=none
+19-new-enemies player=1500,618.5 camera=(13.60, 3.60, -10.00) boss=none
+19b-enemy-attacks player=1500,618.5 camera=(13.60, 3.60, -10.00) boss=none
+20-skill-cards player=1500,618.5 camera=(13.60, 3.60, -10.00) boss=none
+21-attribute-cards player=170,620 camera=(13.60, 3.60, -10.00) boss=none
+22-sword-rain player=500,618.5045 camera=(6.40, 3.60, -10.00) boss=820,618.5001 view=(8.27, 1.63, 0.00) scale=(0.41, 0.41, 0.41)
+23-sword-finger player=500,618.5 camera=(6.40, 3.60, -10.00) boss=820,618.5 view=(8.27, 1.63, 0.00) scale=(0.41, 0.41, 0.41)
+24-sword-brand-tell player=500,618.5 camera=(6.40, 3.60, -10.00) boss=820,618.5 view=(8.40, 1.95, 0.00) scale=(0.41, 0.41, 0.41)
+24b-sword-brand-burst player=500,618.5 camera=(6.43, 3.57, -10.00) boss=820,618.5 view=(8.40, 1.85, 0.00) scale=(0.41, 0.41, 0.41)
+25-dash-afterimage player=844.0001,618.5 camera=(6.41, 3.58, -10.00) boss=820,618.5 view=(8.27, 1.63, 0.00) scale=(0.41, 0.41, 0.41)
+26-live-endless player=350.472,377.3195 camera=(6.40, 3.60, -10.00) boss=none
+11-live-physics-render player=176.32,618.5 camera=(6.40, 3.60, -10.00) boss=none
